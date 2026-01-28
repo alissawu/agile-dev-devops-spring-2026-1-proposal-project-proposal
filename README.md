@@ -6,7 +6,8 @@
 
 ### The Problem
 
-Subletting your apartment to a stranger is risky. You have little recourse if they damage your place, skip rent, or cause problems. Current platforms like Craigslist and Facebook groups offer zero verification—subleasors often resort to awkward social media stalking or hoping mutual friends can vouch for applicants.
+Subletting your apartment to a stranger is risky. You have little recourse if they damage your place, skip rent, or cause problems. Current platforms like Craigslist and Facebook groups offer zero verification. Subleasors often resort to awkward social media stalking, or just pray for the best. 
+(Personally, I've subleased from ppl who felt safer knowing my Linkedin/school/credit score/employment, but I've also subleased from people who just didn't know me. The subleasing ecosystem is default quite lawless.)
 
 ### The Solution
 
@@ -23,17 +24,17 @@ All users must complete at least one identity verification (LinkedIn, .edu email
 
 ### Why This Matters
 
-Every summer, thousands of interns flood cities like NYC, SF, and Seattle searching for temporary housing. Simultaneously, thousands of students studying abroad and professionals traveling need to sublet their apartments. Trust is the main friction point on both sides—InternNest solves this by creating a verified marketplace.
+Every summer, thousands of interns flood cities like NYC, SF, and Seattle searching for temporary housing. Simultaneously, thousands of students studying abroad and professionals traveling need to sublet their apartments. Trust is the main friction point on both sides. InternNest solves this by creating a verified marketplace.
 
 ## For Whom?
 
 ### Subleasors (Verified Listers)
 
-College students studying abroad, young professionals traveling for work, or anyone who needs to sublet their apartment and wants a trustworthy tenant. These users must complete at least one identity verification to list, which protects interns from scam listings. In return, they get access to a pool of verified, employed tenants.
+College students studying abroad, young professionals traveling for work, or anyone who needs to sublet their apartment and wants a trustworthy tenant. These users need to complete at least one identity verification to list, which protects interns from scam listings. In return, they get access to a pool of verified, employed tenants.
 
 ### Subletters (Verified Interns Only)
 
-Only verified interns can sign up to find housing. This includes summer interns at tech companies, finance firms, consulting companies, and other organizations who need temporary housing near their workplace.
+Only verified interns can sign up to find housing. This includes summer interns at tech companies, finance firms, consulting companies, and other organizations who need temporary housing near their workplace. This also includes off-season interns, who can sublet off study-abroad students, without hoping for some NYU/Columbia/Stanford/Cal/[insert college in city of internship] student mutual that'll connect them with a study-abroading peer. 
 
 ### Why This Model Works
 
@@ -54,7 +55,7 @@ All users must complete at least one identity verification:
 - Verify university email (.edu)
 - Link Instagram or other social media
 
-Interns must additionally upload their offer letter as a PDF (company name and dates visible, salary can be blurred) to prove their intern status. This is required on top of the one identity verification.
+Interns must additionally upload their offer letter as a PDF (company name and dates visible, salary and everything else can be blurred) to prove their intern status. This is required on top of the one identity verification minimum.
 
 ### For Interns (Subletters)
 
@@ -78,7 +79,7 @@ Interns must additionally upload their offer letter as a PDF (company name and d
 
 4. **View applicant profiles** - See their company, school, LinkedIn, and verification badges
 
-5. **Choose your subletter with confidence** knowing they've been verified
+5. **Find a subletter with confidence** knowing they've been verified
 
 ### Key Features
 
@@ -112,8 +113,8 @@ Interns must additionally upload their offer letter as a PDF (company name and d
 
 - **Well-defined feature set** - Clear boundaries on what's in scope
 - **No payment processing** - MVP doesn't require handling money (users arrange payment offline. This just connects them.)
-- **No recommendation algorithms** - Simple search/filter instead of AI matching
-- **No complex ML/AI** - Offer letter verification uses a cheap LLM (GPT-4o mini) to validate company name and dates from uploaded documents. The text is obtained from pdf-parse.
+- **No recommendation algorithms** - Simple season &  date search/filter instead of AI matching
+- **No complex ML/AI** - Offer letter verification uses a cheap LLM (GPT-4o mini) to validate company name and dates from uploaded documents. The text is obtainable from pdf-parse.
 - **Standard web app architecture** - Proven tech stack, no experimental technologies
 
 The project has enough technical depth through OAuth integrations, file handling, and messaging to be challenging, while remaining achievable without requiring payment infrastructure, machine learning, or complex algorithms.
