@@ -1,6 +1,6 @@
-# InternNest
+# SubVet
 
-**Verified Sublets for Interns**
+**Vet Before You Sublet - Intern-only Subletting Platform**
 
 ## What and Why?
 
@@ -11,7 +11,7 @@ Subletting your apartment to a stranger is risky. You have little recourse if th
 
 ### The Solution
 
-**InternNest** is a sublet platform specifically designed for subleasors to find verified interns as tenants.
+**SubVet** is a sublet platform specifically designed for subleasors to find verified interns as tenants.
 
 All users must complete at least one identity verification (LinkedIn, .edu email, or social media). Interns must additionally upload their offer letter as a PDF to prove their intern status—this ensures only real interns can apply for sublets.
 
@@ -24,7 +24,7 @@ All users must complete at least one identity verification (LinkedIn, .edu email
 
 ### Why This Matters
 
-Every summer, thousands of interns flood cities like NYC, SF, and Seattle searching for temporary housing. Simultaneously, thousands of students studying abroad and professionals traveling need to sublet their apartments. Trust is the main friction point on both sides. InternNest solves this by creating a verified marketplace.
+Every summer, thousands of interns flood cities like NYC, SF, and Seattle searching for temporary housing. Simultaneously, thousands of students studying abroad and professionals traveling need to sublet their apartments. Trust is the main friction point on both sides. SubVet solves this by creating a verified marketplace.
 
 ## For Whom?
 
